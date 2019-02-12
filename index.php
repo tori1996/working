@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <!--
 
 Design by Free CSS Templates
@@ -104,7 +104,11 @@ hr {
 
 </style>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<<<<<<< HEAD
+<title>JAG2</title>
+=======
 <title>Jaguar</title>
+>>>>>>> 6af8704e5880a42a4acc8986482c4c59195661b1
 <link href="default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
